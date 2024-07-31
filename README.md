@@ -13,7 +13,7 @@
 - Python
 
 ## 📫 How to reach me ...
-- Email: infostndmaketech@gmail.com
+- Email: webplusappinfo@gmail.com
 - LinkedIn: [Abdul Kareem Khan](https://www.linkedin.com/in/abdul-kareem-khan-b22ab12b4/)
 - Website: [Stand Make Tech](https://maketech.in/)
 
