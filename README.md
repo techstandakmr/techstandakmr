@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate and self-taught **Full Stack Developer** 
   - **Voice and video calling**
   - **Disappearing messages**
 - **Demo link**: [Coming soon - Demo link]
-- **GitHub Repo**: *Private Repo* (Available upon request)
+- **GitHub Repo**: *Private Repo* (provide upon request)
 
 ## 🎓 Certifications & Courses
 - **Web Designing** – TGC Animation and Multimedia, Delhi  
