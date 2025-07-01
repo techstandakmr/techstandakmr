@@ -9,7 +9,7 @@ I specialize in backend engineering while working confidently across the full st
 ## 🧠 Tech Stack
 
 **Frontend:**  
-HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, Angular.js
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js
 
 **Backend:**  
 Node.js, Express.js, PHP, MySQL, MongoDB
