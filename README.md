@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, Angular.js
 Node.js, Express.js, PHP, MySQL, MongoDB
 
 **Other Tools:**  
-Git, GitHub, Postman, WebRTC, `ws`, PHPMailer, Cloudinary, GroqCloud API
+Git, GitHub, Postman,
 
 ---
 
