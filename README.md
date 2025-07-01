@@ -1,50 +1,49 @@
-## Abdul Kareem Khan - Full Stack & MERN Stack Developer
+# 👋 Hi, I'm Abdul Kareem Khan
 
-Welcome to my GitHub! I'm a passionate and self-taught **Full Stack Developer** with expertise in building **dynamic, user-friendly, and scalable web applications**. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **MySQL**.
+### 💻 Self-Taught Full Stack Developer | Backend-Focused | Project-Driven
 
-## 🚀 About Me
+I specialize in backend engineering while working confidently across the full stack. I enjoy building secure, scalable applications with real-time features, robust data flows, and practical user experiences.
 
-- **Self-taught** Full Stack Developer with a focus on **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
-- Continuously learning and developing my skills in **frontend** and **backend** technologies to build full-fledged web applications.
-- Currently building a **real-time chat application** using the MERN stack, which features user-to-user and group chats, real-time notifications, typing indicators, voice and video calling, and disappearing messages.
+---
 
-## 📚 Skills
+## 🧠 Tech Stack
 
-### Frontend Technologies:
-- **HTML**, **CSS**, **JavaScript**, **React.js**, **Bootstrap**, **Tailwind CSS**
+**Frontend:**  
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, Angular.js
 
-### Backend Technologies:
-- **Node.js**, **Express.js**, **PHP**
+**Backend:**  
+Node.js, Express.js, PHP, MySQL, MongoDB
 
-### Databases:
-- **MongoDB**, **MySQL**
+**Other Tools:**  
+Git, GitHub, Postman, WebRTC, `ws`, PHPMailer, Cloudinary, GroqCloud API
 
-### Tools & Platforms:
-- **Git**, **GitHub**, **Visual Studio Code**, **Postman**
+---
 
-## 🛠️ Projects
+## 🚀 Projects
 
-### Real-Time Chat Application
-- A **real-time chat application** built using the **MERN stack**, featuring:
-  - User-to-user and **group chats**
-  - **Real-time notifications**
-  - **Voice and video calling**
-  - **Disappearing messages**
-- **Demo link**: [Coming soon - Demo link]
-- **GitHub Repo**: *Private Repo* (provide upon request)
+### 🔹 [My Talking](https://my-talking.onrender.com)  
+A secure MERN chat app with OTP authentication, real-time messaging via `ws`, WebRTC-based voice/video calling, story sharing, AI assistant, chat/media editing, privacy controls, pinned/archived chats, and disappearing messages.
 
-## 🎓 Certifications & Courses
-- **Web Designing** – TGC Animation and Multimedia, Delhi  
-- **The Complete 2024 Web Development Bootcamp** – Udemy by Dr. Angela Yu  
-- **Master Course in Full Stack Development** – Great Learning Academy  
-- **Advanced Diploma in Computer Applications (ADCA)**
+### 🔹 [My Tasking](https://my-tasking.wuaze.com)  
+A PHP/MySQL task management system with OTP-secured accounts, task CRUD with categories, priorities, smart reminders, calendar filtering, result-based analytics, and a clean UI for productivity tracking.
 
-## 🌱 What I'm Currently Learning
-- Enhancing my skills in **real-time applications**, **web security**, and **API development**.
-- Working on building scalable **full-stack web applications** and learning advanced **JavaScript** techniques.
+---
 
-## 📬 Contact Me
-- **GitHub**: [github.com/techstandakmr](https://github.com/techstandakmr)  
-- **Email**: [webplusappinfo@gmail.com](mailto:webplusappinfo@gmail.com)  
+## 📜 Certifications & Learning
 
-Feel free to connect with me! I'd love to collaborate on exciting projects.
+- Completed **ADCA – Advance Diploma in Computer Application**  
+- **Web Designing** – TGC Animation & Multimedia, Delhi  
+- **The Complete Web Development Bootcamp** – Udemy  
+- Ongoing self-learning via YouTube, W3Schools, Google, and ChatGPT
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [webplusappinfo@gmail.com](mailto:webplusappinfo@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/abdulkareem-tech](https://linkedin.com/in/abdulkareem-tech)  
+- 🧑‍💻 GitHub: [techstandakmr](https://github.com/techstandakmr)
+
+---
+
+> “Always building, always learning — one line of code at a time.”
