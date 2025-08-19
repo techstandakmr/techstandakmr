@@ -12,7 +12,7 @@ I specialize in backend engineering while working confidently across the full st
 HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js
 
 **Backend:**  
-Node.js, Express.js, MongoDB, PHP, MySQL
+Node.js, Express.js, MongoDB, PHP, Laravel , MySQL
 
 **Other Tools:**  
 VS Code, Git, GitHub
