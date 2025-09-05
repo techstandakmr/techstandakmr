@@ -31,7 +31,7 @@ A PHP/MySQL task management system with OTP-secured accounts, task CRUD with cat
 
 ## 📜 Certifications & Learning
 
-- Completed **ADCA – Advance Diploma in Computer Application**  
+- **ADCA – Advance Diploma in Computer Application**  
 - **Web Designing** – TGC Animation & Multimedia, Delhi  
 - **The Complete Web Development Bootcamp** – Udemy  
 - Ongoing self-learning via YouTube, W3Schools, Google, and ChatGPT
