@@ -12,7 +12,7 @@ I specialize in backend engineering while working confidently across the full st
 HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js
 
 **Backend:**  
-Node.js, Express.js, MongoDB, PHP, Laravel , MySQL
+Node.js, Express.js, MongoDB, PHP, Laravel , MySQL, Python
 
 **Other Tools:**  
 VS Code, Git, GitHub
@@ -35,14 +35,6 @@ A PHP/MySQL task management system with OTP-secured accounts, task CRUD with cat
 - **Web Designing** – TGC Animation & Multimedia, Delhi  
 - **The Complete Web Development Bootcamp** – Udemy  
 - Ongoing self-learning via YouTube, W3Schools, Google, and ChatGPT
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [webplusappinfo@gmail.com](mailto:webplusappinfo@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/abdulkareem-tech](https://linkedin.com/in/abdulkareem-tech)  
-- 🧑‍💻 GitHub: [techstandakmr](https://github.com/techstandakmr)
 
 ---
 
