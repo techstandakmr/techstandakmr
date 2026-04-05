@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdul Kareem Khan
 
-### 💻 Self-Taught Full Stack Developer | Backend-Focused | Project-Driven
+### 💻 Self-Taught Full Stack & Mobile App Developer | Backend-Focused | Project-Driven
 
-I specialize in backend engineering while working confidently across the full stack. I enjoy building secure, scalable applications with real-time features, robust data flows, and practical user experiences.
+I specialize in backend engineering while working confidently across full stack and mobile development. I enjoy building secure, scalable applications with real-time features, AI integration, and practical user experiences.
 
 ---
 
@@ -11,8 +11,11 @@ I specialize in backend engineering while working confidently across the full st
 **Frontend:**  
 HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js
 
+**Mobile Development:**  
+Flutter, React Native  
+
 **Backend:**  
-Node.js, Express.js, MongoDB, PHP, Laravel , MySQL, Python
+Node.js, Express.js, MongoDB, PHP, Laravel, MySQL, Python
 
 **Other Tools:**  
 VS Code, Git, GitHub
@@ -21,11 +24,21 @@ VS Code, Git, GitHub
 
 ## 🚀 Projects
 
-### 🔹 [My Talking](https://my-talking.onrender.com)  
+### 🔹 [My Talking](https://my-talking-web.onrender.com)  
 A secure MERN chat app with OTP authentication, real-time messaging via `ws`, WebRTC-based voice/video calling, story sharing, AI assistant, chat/media editing, privacy controls, pinned/archived chats, and disappearing messages.
 
-### 🔹 [My Tasking](https://my-tasking.wuaze.com)  
-A PHP/MySQL task management system with OTP-secured accounts, task CRUD with categories, priorities, smart reminders, calendar filtering, result-based analytics, and a clean UI for productivity tracking.
+### 🔹 [AI Chat Assistant](https://github.com/techstandakmr/ai-chat-assistant-app/releases/download/v1.0.0/ai-chat-assistant.apk)  
+A React Native AI chat app with JWT authentication, smooth conversations, chat management (pin, rename, delete), theme customization, and AI-powered responses.
+
+### 🔹 [My Tasking](https://github.com/techstandakmr/my-tasking-app/releases/download/v1.0.0/my-tasking.apk)  
+A task management system (Web & Mobile) with OTP-secured accounts, task CRUD, filters, calendar tracking, smart alerts, and productivity-focused UI.
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern – [Dezert Innovation Technology Company](https://www.linkedin.com/company/dezert-innovation-technology-company)**  
+Worked on e-commerce platforms, backend systems, APIs, and admin panels using Laravel, Bagisto, React Native, and Flutter.
 
 ---
 
