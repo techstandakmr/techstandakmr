@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Kareem Khan
 
-### 💻 Self-Taught Full Stack & Mobile App Developer | Backend-Focused | Project-Driven
+### 💻 Full Stack & Mobile App Developer | Backend-Focused | Project-Driven
 
 I specialize in backend engineering while working confidently across full stack and mobile development. I enjoy building secure, scalable applications with real-time features, AI integration, and practical user experiences.
 
