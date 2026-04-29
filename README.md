@@ -23,6 +23,8 @@ VS Code, Git, GitHub
 ---
 
 ## 🚀 Projects
+### 🔹 [Portfolio](https://akmrtech.onrender.com/)  
+Modern personal portfolio showcasing my projects, skills, experience, and full stack/mobile development work with a clean responsive design.
 
 ### 🔹 [My Talking](https://my-talking-web.onrender.com)  
 A secure MERN chat app with OTP authentication, real-time messaging via `ws`, WebRTC-based voice/video calling, story sharing, AI assistant, chat/media editing, privacy controls, pinned/archived chats, and disappearing messages.
